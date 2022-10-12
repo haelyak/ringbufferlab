@@ -1,0 +1,51 @@
+Produced 3 from input line 1
+Consumed 3 from input line 1; sum = 3
+Produced 5 from input line 2
+Consumed 5 from input line 2; sum = 8
+Produced -3 from input line 3
+Consumed -3 from input line 3; sum = 5
+Produced -5 from input line 4
+Consumed -5 from input line 4; sum = 0
+Produced 8 from input line 5
+Consumed 8 from input line 5; sum = 8
+Produced -8 from input line 6
+Consumed -8 from input line 6; sum = 0
+Produced 3 from input line 7
+Consumed 3 from input line 7; sum = 3
+Produced 5 from input line 8
+Consumed 5 from input line 8; sum = 8
+Produced -3 from input line 9
+Consumed -3 from input line 9; sum = 5
+Produced -5 from input line 10
+Consumed -5 from input line 10; sum = 0
+Produced 8 from input line 11
+Consumed 8 from input line 11; sum = 8
+Produced -8 from input line 12
+Consumed -8 from input line 12; sum = 0
+Produced 3 from input line 13
+Consumed 3 from input line 13; sum = 3
+Produced 5 from input line 14
+Consumed 5 from input line 14; sum = 8
+Produced -3 from input line 15
+Consumed -3 from input line 15; sum = 5
+Produced -5 from input line 16
+Consumed -5 from input line 16; sum = 0
+Produced 8 from input line 17
+Consumed 8 from input line 17; sum = 8
+Produced -8 from input line 18
+Consumed -8 from input line 18; sum = 0
+Produced 3 from input line 19
+Consumed 3 from input line 19; sum = 3
+Produced 5 from input line 20
+Consumed 5 from input line 20; sum = 8
+Produced -3 from input line 21
+Consumed -3 from input line 21; sum = 5
+Produced -5 from input line 22
+Consumed -5 from input line 22; sum = 0
+Produced 8 from input line 23
+Consumed 8 from input line 23; sum = 8
+Produced -8 from input line 24
+Consumed -8 from input line 24; sum = 0
+Produced 42 from input line 25
+Consumed 42 from input line 25; sum = 42
+Final sum is 42
